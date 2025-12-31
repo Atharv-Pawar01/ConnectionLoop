@@ -32,3 +32,4 @@ D:\A\Intern\c\WordFrequencyClient\obj\Debug\net10.0\refint\WordFrequencyClient.d
 D:\A\Intern\c\WordFrequencyClient\obj\Debug\net10.0\WordFrequencyClient.pdb
 D:\A\Intern\c\WordFrequencyClient\obj\Debug\net10.0\WordFrequencyClient.genruntimeconfig.cache
 D:\A\Intern\c\WordFrequencyClient\obj\Debug\net10.0\ref\WordFrequencyClient.dll
+D:\A\Intern\c\WordFrequencyClient\obj\Debug\net10.0\WordFrequencyClient.sourcelink.json

@@ -1,0 +1,6 @@
+[b|B]in/
+[o|O]bj/
+.vs/
+*.user
+*.suo
+*.sln.docstates
