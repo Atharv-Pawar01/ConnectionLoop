@@ -32,7 +32,7 @@ namespace WordFrequencyService
 
         protected override async Task ExecuteAsync(CancellationToken token)
         {
-            _log.LogInformation("Connecting...");
+            _log.LogInformation("Connecting to NATS server at {Url}...", Url);
 
             try
             {
