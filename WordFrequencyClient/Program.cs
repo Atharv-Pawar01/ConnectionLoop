@@ -3,12 +3,12 @@ using System.Text.Json.Serialization;
 using NATS.Client.Core;
 using NATS.Client.Serializers.Json;
 
-
 var opts = new NatsOpts
 {
     Url = "nats://localhost:4222",
     SerializerRegistry = NatsJsonSerializerRegistry.Default
 };
+
 
 await using var conn = new NatsConnection(opts);
 
